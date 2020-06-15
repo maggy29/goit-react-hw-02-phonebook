@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/maggy29.github.io/goit-react-hw-02-phonebook/static/css/main.e32814a2.chunk.css",
+    "main.js": "/maggy29.github.io/goit-react-hw-02-phonebook/static/js/main.f11fbd1d.chunk.js",
+    "main.js.map": "/maggy29.github.io/goit-react-hw-02-phonebook/static/js/main.f11fbd1d.chunk.js.map",
+    "runtime-main.js": "/maggy29.github.io/goit-react-hw-02-phonebook/static/js/runtime-main.b183d225.js",
+    "runtime-main.js.map": "/maggy29.github.io/goit-react-hw-02-phonebook/static/js/runtime-main.b183d225.js.map",
+    "static/css/2.d34346ea.chunk.css": "/maggy29.github.io/goit-react-hw-02-phonebook/static/css/2.d34346ea.chunk.css",
+    "static/js/2.f4f6f78f.chunk.js": "/maggy29.github.io/goit-react-hw-02-phonebook/static/js/2.f4f6f78f.chunk.js",
+    "static/js/2.f4f6f78f.chunk.js.map": "/maggy29.github.io/goit-react-hw-02-phonebook/static/js/2.f4f6f78f.chunk.js.map",
+    "index.html": "/maggy29.github.io/goit-react-hw-02-phonebook/index.html",
+    "precache-manifest.924cd12f3c45fb0898030015d51fd5c7.js": "/maggy29.github.io/goit-react-hw-02-phonebook/precache-manifest.924cd12f3c45fb0898030015d51fd5c7.js",
+    "service-worker.js": "/maggy29.github.io/goit-react-hw-02-phonebook/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/maggy29.github.io/goit-react-hw-02-phonebook/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.e32814a2.chunk.css.map": "/maggy29.github.io/goit-react-hw-02-phonebook/static/css/main.e32814a2.chunk.css.map",
+    "static/js/2.f4f6f78f.chunk.js.LICENSE.txt": "/maggy29.github.io/goit-react-hw-02-phonebook/static/js/2.f4f6f78f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b183d225.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.f4f6f78f.chunk.js",
+    "static/css/main.e32814a2.chunk.css",
+    "static/js/main.f11fbd1d.chunk.js"
+  ]
+}
